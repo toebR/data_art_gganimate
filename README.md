@@ -1,5 +1,10 @@
 # data_art_gganimate
 Data animations done with  {gganimate}
+
+![therace](https://user-images.githubusercontent.com/65813696/140055506-0f23b16a-5c50-48d9-9079-e3ee2fc6a03b.gif)
+
+
+
 ![flake](https://user-images.githubusercontent.com/65813696/129009782-4f659ec1-02f0-4dc1-a40f-3908262362c5.gif)
 
 
