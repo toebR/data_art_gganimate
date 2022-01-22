@@ -1,7 +1,8 @@
 # data_art_gganimate
 Data animations done with  {gganimate}
 
-![bubbles](https://user-images.githubusercontent.com/65813696/150655729-1771b0b3-0593-4070-a6b6-5d88d5d91f29.gif)
+
+![bubbles](https://user-images.githubusercontent.com/65813696/150655986-269c374e-b77e-4e6f-ae5b-065c2067d8b9.gif)
 
 
 ![flake](https://user-images.githubusercontent.com/65813696/129009782-4f659ec1-02f0-4dc1-a40f-3908262362c5.gif)
