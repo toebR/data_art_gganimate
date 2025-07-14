@@ -1,6 +1,8 @@
 # data_art_gganimate
 Data animations done with  {gganimate}
 
+![British Library Funding Data](https://github.com/user-attachments/assets/be2d9c00-bb9e-4e9f-a969-76194c089d97)
+
 
 ![bubbles](https://user-images.githubusercontent.com/65813696/150655986-269c374e-b77e-4e6f-ae5b-065c2067d8b9.gif)
 
